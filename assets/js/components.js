@@ -63,7 +63,7 @@ const FOOTER_HTML = `
           <a href="mailto:info@cts360.net" class="social-link" aria-label="Email">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 5L2 7"/></svg>
           </a>
-          <a href="https://www.linkedin.com/company/cts360" class="social-link" aria-label="LinkedIn" target="_blank" rel="noopener">
+          <a href="https://www.linkedin.com/company/curative-tech-services" class="social-link" aria-label="LinkedIn" target="_blank" rel="noopener">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg>
           </a>
         </div>
@@ -109,7 +109,7 @@ const FOOTER_HTML = `
       </div>
     </div>
     <div class="footer-bottom">
-      <span>&copy; 2025 CTS360 – Curative Tech Services. All rights reserved.</span>
+      <span>&copy; 2026 CTS360 – Curative Tech Services. All rights reserved.</span>
       <div class="footer-bottom-links">
         <a href="#">Privacy Policy</a>
         <a href="#">Terms of Service</a>
