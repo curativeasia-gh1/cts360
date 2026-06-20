@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cts360.net/sitemap.xml
